@@ -1,4 +1,4 @@
-const api_id = ''
+const api_id = 'b46ef7ed18a998f1b181cc2ef1f14cbc'
 const temp = document.querySelector('.temp')
 const icon = document.querySelector('.icon')
 const cityname = document.querySelector('.city-name')
